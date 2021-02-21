@@ -15,5 +15,5 @@ For more details please, contact me directly:
 ```
 service@shyran.pp.ua
 068.225.225.4
-Irshava, UA
+Irshava, UA-90100
 ```
