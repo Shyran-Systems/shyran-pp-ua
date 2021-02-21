@@ -31,11 +31,11 @@ Syntax highlighted code block
 
 For more details please, contact me directly. 
 
-**Serhii Shyran**
-Independent Contractor & System Administrator
-
+### Serhii Shyran
+**Independent Contractor & System Administrator**
+- [GitHub Profile](https://github.com/sshyran).
+```
 service@shyran.pp.ua
 (068) 225 225 4
 Irshava, UA
-[GitHub Profile](https://guides.github.com/features/mastering-markdown/).
-
+```
