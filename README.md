@@ -29,12 +29,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details please, contact me directly. 
 
-### Jekyll Themes
+**Serhii Shyran**
+Independent Contractor & System Administrator
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shyran-Systems/shyran.pp.ua/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+service@shyran.pp.ua
+(068) 225 225 4
+Irshava, UA
+[GitHub Profile](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
