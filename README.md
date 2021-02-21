@@ -2,11 +2,12 @@
 
 ### Welcome to my Professional Page
 
-You can use the [editor on GitHub](https://github.com/Shyran-Systems/shyran.pp.ua/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I use GitHub to Code, Host & Deliver content to my clients (B2C). 
+This Page is also served through [GitHub Pages](https://shyran-systems.github.io/www.shyran.pp.ua/) to maintain contact with Subcontractors, current and potential Clients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever there is a commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the page, from the content in Markdown file, so information keeps up to date.
 
-### Markdown
+### What is Markdown ?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
