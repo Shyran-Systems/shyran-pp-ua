@@ -1,4 +1,6 @@
-## Welcome to Shyran Systems GitHub Page
+# Serhii Shyran, IC & SA
+
+### Welcome to my Professional Page
 
 You can use the [editor on GitHub](https://github.com/Shyran-Systems/shyran.pp.ua/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
