@@ -4,7 +4,7 @@
 
 **I am Independent Contractor & System Administrator.**
 
-I'm currently a Developer, SysAdmin & Contract Manager at @Shyran-Systems... yep, lots of things to do :)
+I'm currently a Developer, SysAdmin & Contract Manager at @Shyran-Systems.
 
 Some recent activities may be seen at my [GitHub Profile](https://github.com/sshyran).
 
@@ -19,3 +19,4 @@ service@shyran.pp.ua
 068.225.225.4
 Irshava, UA-90100
 ```
+Code is Poetry.
