@@ -4,6 +4,8 @@
 
 **I am Independent Contractor & System Administrator.**
 
+I'm currently a Developer, SysAdmin & Contract Manager at @Shyran-Systems... yep, lots of things to do :)
+
 Some recent activities may be seen at my [GitHub Profile](https://github.com/sshyran).
 
 I use GitHub to Code, Host & Deliver content to my clients (B2C). 
