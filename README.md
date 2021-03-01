@@ -1,6 +1,6 @@
 # Serhii Shyran, IC & SA
 
-### Welcome to my Professional Page
+### Welcome to my Prof Page
 
 **I am Independent Contractor & System Administrator.**
 
