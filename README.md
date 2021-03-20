@@ -1,4 +1,4 @@
-# Serhii Shyran, IC & SA
+# Serhii Shyran, ISV & SA
 
 ### Welcome to my Prof Page
 
@@ -15,6 +15,9 @@ Featured Projects & Services:
 * **Codebase Security Analysis & QA** - code quality lab, for open sourced projects only (paid advissory & setup);
 * **Patient & Hospital Management Software (RMS)** - setup & support for any organisation;
 * **Transport Route & Timetable Optimisation** - AI optimised software, local & cloud installation options available.
+* **Microsoft Products & Servicess:**
+- Microsoft Windows 10 (IoT Edition) - installation, setup and paid support.
+
 
 **Attention:**
 * Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you.
@@ -24,7 +27,7 @@ For more details please, contact me directly.
 ### Serhii Shyran
 ```
 service@shyran.pp.ua
-068.225.225.4
+68.225.225.4
 Irshava, UA-90100
 ```
 **Moto's:**
