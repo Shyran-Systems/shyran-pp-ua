@@ -8,7 +8,7 @@ I currently Develop, SysAdmin and Manage Contracts for @Shyran-Systems.
 
 Some recent activities may be found at my [GitHub Profile](https://github.com/sshyran).
 
-I use GitHub to Code, Host & Deliver content to my clients (B2C). 
+I use GitHub and Azure to Code, Host & Deliver content to my clients (B2C). 
 This Page is also served through [GitHub Pages](https://shyran-systems.github.io/www.shyran.pp.ua/) to maintain contact with Subcontractors, current and potential Clients.
 
 ### Featured Services:
