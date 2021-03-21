@@ -1,4 +1,4 @@
-# Serhii Shyran, ISV & SA
+# Serhii Shyran, ISV & SA 
 
 ### Welcome to my Professional GitHub Page!
 
