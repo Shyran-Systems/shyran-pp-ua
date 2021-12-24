@@ -40,6 +40,7 @@ For more details please, contact me directly.
 ### Serhii Shyran, i.c.
 ```
 service@shyran.pp.ua
+93.180.6768
 68.225.225.4
 Irshava, UA-90100
 ```
