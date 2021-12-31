@@ -15,12 +15,12 @@ This Page is also served through [GitHub Pages](https://shyran-systems.github.io
 * **Codebase Security Analysis & QA** - code quality lab, for open sourced projects only (paid advissory & setup);
 * **Patient & Hospital Management Software (RMS)** - setup & support for any organisation;
 * **Transport Route & Timetable Optimisation** - AI optimised software, local & cloud installation options available.
+* **Shopify**, **Drupal**, **WordPress**.
 
 #### Available Microsoft Products & Servicess:
 * **Microsoft Azure Active Directory** - infrastructure setup, consulting and support.
 * **Microsoft Teams**
 * **Microsoft 365**
-* **Shopify**
 
 #### Operating System Install Services:
 ##### PC OS's
