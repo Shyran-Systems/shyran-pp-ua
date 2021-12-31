@@ -2,7 +2,7 @@
 
 ### Welcome to my Professional GitHub Page!
 
-**I am Independent Contractor, ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
+**I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
 
 I currently Develop and Manage Code for @Shyran-Systems.
 
@@ -20,10 +20,11 @@ This Page is also served through [GitHub Pages](https://shyran-systems.github.io
 * **Microsoft Azure Active Directory** - infrastructure setup, consulting and support.
 * **Microsoft Teams**
 * **Microsoft 365**
+* **Shopify**
 
 #### Operating System Install Services:
 ##### PC OS's
-* **Microsoft Windows** (IoT & System Builder Editions) - installation, setup and paid support.
+* **Microsoft Windows** (IoT & Dev Ed.) - installation, setup and paid support.
 * **Linux derivates** - Ubuntu 18.04: IoT Core, Server, Desktop. CentOS, RHEL. 
 
 ##### Mobile Platform & Edge Device OS's
@@ -35,7 +36,7 @@ This Page is also served through [GitHub Pages](https://shyran-systems.github.io
 **Attention:**
 * Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you.
 
-For more details please, contact me directly. 
+For more details, please DM or contact me directly. 
 
 ### Serhii Shyran, i.c.
 ```
